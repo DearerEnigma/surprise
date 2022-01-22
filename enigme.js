@@ -1,6 +1,6 @@
-alert("Jet 'explique juste après le principe, simple question une date importante pour toi et une autre personne ?");
+alert("Je t'explique juste après le principe, simple question une date importante pour toi et une autre personne ?");
 text = prompt("Alors ?");
-if (text == "80/01") {
+if (text == "08/01") {
 	alert("Yes je t'aime.")
 	}
 else {
